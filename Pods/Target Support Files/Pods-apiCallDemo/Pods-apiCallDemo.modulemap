@@ -1,0 +1,6 @@
+framework module Pods_apiCallDemo {
+  umbrella header "Pods-apiCallDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
